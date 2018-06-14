@@ -1,0 +1,8 @@
+{
+    "source_data_packages": [
+        {
+        "package": "pattrn-data-where-the-drones-strike",
+        "source": "https://gitlab.com/pattrn-data/pattrn-data-where-the-drones-strike.git#pattrn-data"
+        }
+    ]
+}
